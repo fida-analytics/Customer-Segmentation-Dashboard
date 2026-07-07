@@ -3,7 +3,7 @@
 ## 📌 Project Overview
 
 This project focuses on customer segmentation using SQL and Power BI. The dataset was cleaned, analyzed, and visualized to uncover customer behavior based on age, gender, annual income, and spending score.
-
+a
 The dashboard helps businesses better understand customer demographics and purchasing patterns for data-driven decision-making.
 
 ---
@@ -101,10 +101,16 @@ The dataset contains customer information including:
 
 ---
 
-## 📬 Contact
+---
 
-If you have any questions or suggestions, feel free to connect with me on LinkedIn.
+## ⭐ Project Status
+
+✅ Completed
+
+This project demonstrates practical skills in data cleaning, SQL querying, data analysis, and interactive dashboard development using Power BI.
 
 ---
+
+Thank you for visiting this repository!
 
 ⭐ If you found this project useful, consider giving it a star.
